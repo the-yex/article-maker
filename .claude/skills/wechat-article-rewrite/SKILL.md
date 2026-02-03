@@ -1,10 +1,6 @@
 ---
-name: tech-article-writer
+name: wechat-article-rewrite
 description: 微信公众号爆款技术文章写作助手。帮助用户将技术内容改写成适合公众号发布的爆款文章，从真实工程实践出发，包含痛点切入、具体案例、踩坑经历等内容。使用场景包括：(1) 将技术文档或博客文章改写为公众号风格 (2) 根据技术要点创作新的公众号文章 (3) 优化已有文章的标题和内容结构 (4) 为技术内容添加案例和实践建议
-compatibility: Designed for Claude Code (or similar products)
-metadata:
-  author: 1003941268@qq.com
-  version: "1.1"
 ---
 
 # 微信公众号爆款技术文章写作助手
